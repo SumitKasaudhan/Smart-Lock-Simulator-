@@ -1,0 +1,5 @@
+{
+  "name": "VHDL Smart Lock Simulator",
+  "description": "An interactive web application that simulates a smart digital lock system, demonstrates its logic, and generates corresponding VHDL code using the Gemini API.",
+  "requestFramePermissions": []
+}
